@@ -1,5 +1,8 @@
 # Braintree iOS SDK
 
+
+[![security status](https://www.meterian.io/badge/pb/0a8db3c7-0bba-47cf-bcf7-803cfede0c64/security)](https://www.meterian.io/projects/?pid=0a8db3c7-0bba-47cf-bcf7-803cfede0c64) [![stability status](https://www.meterian.io/badge/pb/0a8db3c7-0bba-47cf-bcf7-803cfede0c64/stability)](https://www.meterian.io/projects/?pid=0a8db3c7-0bba-47cf-bcf7-803cfede0c64) [![licensing status](https://www.meterian.io/badge/pb/0a8db3c7-0bba-47cf-bcf7-803cfede0c64/licensing)](https://www.meterian.io/projects/?pid=0a8db3c7-0bba-47cf-bcf7-803cfede0c64)
+
 [![CocoaPods compatible](https://img.shields.io/cocoapods/v/Braintree.svg?style=flat)](https://cocoapods.org/pods/Braintree)
 [![Swift Package Manager compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
